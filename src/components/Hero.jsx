@@ -4,7 +4,7 @@ import heroImage from "../assets/hero.png";
 
 export default function Hero() {
   return (
-    <section className="relative min-h-[75vh] overflow-hidden flex items-center bg-[#F7F3EB]">
+    <section className="relative min-h-[90vh] overflow-hidden flex items-center bg-[#F7F3EB]">
       <div className="absolute inset-0 z-10">
         <img
           src={heroImage}
