@@ -24,7 +24,7 @@ export default function Footer() {
             tracking-[6px]
             uppercase"
           >
-            SUMMIT
+            FLYATLAS
           </h2>
 
           <span className="text-gray-500 uppercase text-xs">
@@ -34,7 +34,7 @@ export default function Footer() {
 
         <div className="flex items-center gap-6">
           <span className="text-gray-500">
-            © 2026 Summit
+            © 2026 FLYATLAS
           </span>
 
           <a
